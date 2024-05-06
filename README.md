@@ -1,6 +1,6 @@
 # iotanomalyclassification
 
-IoT network traffic attack classification improvement of DL(ResNet18 1D)
+IoT network traffic attack classification improvement of DL(ResNet 1D)
 Dataset: IoTID20
 ![image](https://github.com/helenalee01/iotanomalyclassification/assets/102953075/8b41b00d-4fb6-425a-9aca-b1463d2e646c)
 
