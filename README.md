@@ -11,5 +11,4 @@ information loss by fusing the output from the previous layer with the current l
 
 3) MFCC-based ResNet18 Model applied
 
-* Approach can be applied to the IoT network dataset as well as other time series datasets, where the data is transmitted through visible or invisible mediums serving as pipelines, to enhance classification 
-accuracy. Moreover, the time series data should have the features of Trends, Seasonality, Residuals for better performance.
+* Assumption: IoT network dataset as well as other time series datasets has common features like flow. 
