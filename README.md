@@ -4,8 +4,10 @@
 - Features description
 ![image](https://github.com/helenalee01/iotanomalyclassification/assets/102953075/fc0c8cab-06bb-4509-9541-3a6a0ef5160a)## iotanomalyclassification 
  
-- ResNet18
-- ResNet is an artificial neural network architecture primarily designed for addressing computer vision149
-problems. It incorporates residual blocks to enable the bypassing of layers, deliberately reducing150
-information loss by fusing the output from the previous layer with the current layer. The naming151
-convention of the model depends on the depth of the layer
+1) MFCC feature extraction is performed followed by PCA application
+2) ResNet18
+- ResNet is an artificial neural network architecture primarily designed for addressing computer vision problems. It incorporates residual blocks to enable the bypassing of layers, deliberately reducing150
+information loss by fusing the output from the previous layer with the current layer. The naming convention of the model depends on the depth of the layer.
+
+3) MFCC-based ResNet18 Model applied
+
